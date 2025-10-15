@@ -37,7 +37,8 @@ Designed to be clean, readable, and fully toggleable per module with per‑modul
 4. Adjust inputs under: Module Controls, Ichimoku, SMC, Order Blocks
 
 ## Video (YouTube)
-- Tutorial: https://youtu.be/VIDEO_ID
+- Tutorial: https://youtu.be/m_LuJLvjLLo
+- Channel: https://www.youtube.com/@emptyandvoid
 
 ## Inputs Snapshot
 - Module toggles: Show Ichimoku, Show SMC, Show Order Blocks
@@ -54,7 +55,7 @@ Designed to be clean, readable, and fully toggleable per module with per‑modul
 
 ## Links
 - GitHub: https://github.com/PicoRmin/Modular-MultiPurpose_Indicator
-- YouTube: https://youtube.com/@PicoRmin
+- YouTube: https://www.youtube.com/@emptyandvoid
 - Gmail: rmin.alborzi@gmail.com
 
 ## License

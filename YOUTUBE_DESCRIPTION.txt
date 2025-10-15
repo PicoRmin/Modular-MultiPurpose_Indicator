@@ -16,11 +16,14 @@ GitHub: https://github.com/PicoRmin/Modular-MultiPurpose_Indicator
 
 ارتباط با من:
 Gmail: rmin.alborzi@gmail.com
-YouTube: https://youtube.com/@PicoRmin
+YouTube: https://www.youtube.com/@emptyandvoid
 
 ویدیو آموزشی مرتبط با این پروژه:
-https://youtu.be/VIDEO_ID
+https://youtu.be/m_LuJLvjLLo
 
-#TradingView #PineScript #Ichimoku #SMC #OrderBlocks #Crypto #Forex #Stocks #Indicator
+#TradingView #PineScript #PineScriptV5 #Ichimoku #Kumo #Tenkan #Kijun #Chikou #SMC #SmartMoney #CHoCH #BOS #OrderBlocks #Liquidity #Mitigation #FVG #Crypto #Forex #Stocks #Scalping #Swing #TechnicalAnalysis #Indicator #Strategy #DayTrading #PriceAction #SmartMoneyConcepts
 
+Tags (comma separated):
+tradingview, pine script, pine v5, pinescript v5, ichimoku, ichimoku cloud, kijun, tenkan, chikou, kumo cloud, smart money concepts, smc, choch, bos, break of structure, market structure, order blocks, volumized order blocks, liquidity, mitigation, fvg, fair value gap, crypto trading, forex trading, stock trading, scalping, swing trading, day trading, price action, technical analysis, indicator, strategy, modular indicator, multi timeframe, alerts
 
+Channel ID: UCPnJomb7ub-MMGq-1Dq_-Gw
