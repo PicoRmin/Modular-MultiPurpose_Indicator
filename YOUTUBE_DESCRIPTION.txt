@@ -1,0 +1,26 @@
+عنوان: Modular MultiPurpose Indicator (TradingView • Pine v5)
+
+این ویدیو یک اندیکاتور چندمنظوره و ماژولار را معرفی می‌کند که سه سیستم مهم را به‌صورت هم‌زمان و حرفه‌ای روی یک چارت نمایش می‌دهد:
+- Ichimoku Cloud
+- SMC Suite (BOS / CHoCH)
+- Volumized Order Blocks
+
+قابلیت‌ها:
+- فعال/غیرفعال‌سازی هر ماژول به‌صورت مستقل
+- کنترل کامل رنگ‌ها، شفافیت، ضخامت خطوط و اندازه لیبل‌ها
+- هشدارهای آماده برای Ichimoku، SMC و OB
+- لایه‌بندی بصری بهینه برای خوانایی بالا
+
+دانلود/سورس کد:
+GitHub: https://github.com/PicoRmin/Modular-MultiPurpose_Indicator
+
+ارتباط با من:
+Gmail: rmin.alborzi@gmail.com
+YouTube: https://youtube.com/@PicoRmin
+
+ویدیو آموزشی مرتبط با این پروژه:
+https://youtu.be/VIDEO_ID
+
+#TradingView #PineScript #Ichimoku #SMC #OrderBlocks #Crypto #Forex #Stocks #Indicator
+
+
