@@ -1,0 +1,18 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs / Temp
+*.log
+*.tmp
+*.swp
+
+# Project specific
+.snapshots/
+assets/*.psd
+assets/*.ai
+assets/*.xcf
+
+
